@@ -1,4 +1,0 @@
-n03201208,table;
-n03388183,pen;
-n04074963,remote;
-n04404412,television;
