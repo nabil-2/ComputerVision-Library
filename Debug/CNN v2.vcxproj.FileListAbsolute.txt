@@ -1,0 +1,3 @@
+C:\Users\nabil\OneDrive\Dokumente\Facharbeit\Programm\CNN v2\Debug\CNN v2.exe
+C:\Users\nabil\OneDrive\Dokumente\Facharbeit\Programm\CNN v3\Debug\CNN v2.exe
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\Debug\CNN v2.exe

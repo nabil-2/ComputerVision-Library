@@ -1,0 +1,58 @@
+﻿  CNN v2.cpp
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\Dense.h(20,14): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\Dense.h(33,12): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\Dense.h(34,13): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\Dense.h(35,13): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\Conv.h(24,14): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\Conv.h(25,12): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\Conv.h(26,13): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\Conv.h(27,13): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\MultiDense.h(17,14): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\MultiDense.h(22,15): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\MultiDense.h(41,12): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\MultiDense.h(42,13): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\MultiDense.h(43,13): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\MultiDense2.h(17,14): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\MultiDense2.h(22,15): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\MultiDense2.h(42,12): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\MultiDense2.h(43,11): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\MultiDense2.h(44,11): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\MultiDenseInput.h(17,15): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\MultiDenseInput.h(19,12): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\MultiDenseInput.h(20,11): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\MultiDenseInput.h(21,11): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\CNN v2.cpp(160,30): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\CNN v2.cpp(162,14): warning C4244: "Argument": Konvertierung von "time_t" in "unsigned int", möglicher Datenverlust
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\CNN v2.cpp(163,31): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+  Network.cpp
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\Dense.h(20,14): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\Dense.h(33,12): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\Dense.h(34,13): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\Dense.h(35,13): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\Conv.h(24,14): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\Conv.h(25,12): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\Conv.h(26,13): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\Conv.h(27,13): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\MultiDense.h(17,14): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\MultiDense.h(22,15): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\MultiDense.h(41,12): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\MultiDense.h(42,13): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\MultiDense.h(43,13): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\MultiDense2.h(17,14): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\MultiDense2.h(22,15): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\MultiDense2.h(42,12): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\MultiDense2.h(43,11): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\MultiDense2.h(44,11): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\MultiDenseInput.h(17,15): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\MultiDenseInput.h(19,12): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\MultiDenseInput.h(20,11): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\MultiDenseInput.h(21,11): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\Network.cpp(346,11): warning C4244: "Initialisierung": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\Network.cpp(347,11): warning C4244: "Initialisierung": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\Network.cpp(487,48): warning C4244: "+=": Konvertierung von "double" in "float", möglicher Datenverlust
+  Code wird generiert.
+  2 of 3997 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    20 functions had inline decision re-evaluated but remain unchanged
+  Codegenerierung ist abgeschlossen.
+  CNN v2.vcxproj -> C:\Users\admlocal\Desktop\KI\Project\CNN v3\Release\CNN v2.exe

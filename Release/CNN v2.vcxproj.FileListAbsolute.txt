@@ -1,0 +1,5 @@
+C:\Users\nabil\OneDrive\Dokumente\Facharbeit\Programm\CNN v2\Release\CNN v2.exe
+D:\stxxl\CNN v2\Release\CNN v2.exe
+C:\Users\admlocal\OneDrive\Dokumente\Facharbeit\Programm\CNN v3\Release\CNN v2.exe
+C:\Users\nabil\OneDrive\Dokumente\Facharbeit\Programm\CNN v3\Release\CNN v2.exe
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\Release\CNN v2.exe

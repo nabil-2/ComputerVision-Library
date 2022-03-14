@@ -1,0 +1,63 @@
+﻿  Network.cpp
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\Dense.h(20,14): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\Dense.h(33,12): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\Dense.h(34,13): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\Dense.h(35,13): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\Conv.h(24,14): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\Conv.h(25,12): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\Conv.h(26,13): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\Conv.h(27,13): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\MultiDense.h(17,14): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\MultiDense.h(22,15): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\MultiDense.h(41,12): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\MultiDense.h(42,13): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\MultiDense.h(43,13): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\MultiDense2.h(17,14): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\MultiDense2.h(22,15): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\MultiDense2.h(42,12): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\MultiDense2.h(43,11): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\MultiDense2.h(44,11): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\MultiDenseInput.h(17,15): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\MultiDenseInput.h(19,12): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\MultiDenseInput.h(20,11): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\MultiDenseInput.h(21,11): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\Network.cpp(57,25): warning C4267: "return": Konvertierung von "size_t" nach "int", Datenverlust möglich
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\Network.cpp(67,45): warning C4267: "return": Konvertierung von "size_t" nach "int", Datenverlust möglich
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\Network.cpp(73,45): warning C4267: "return": Konvertierung von "size_t" nach "int", Datenverlust möglich
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\Network.cpp(80,45): warning C4267: "return": Konvertierung von "size_t" nach "int", Datenverlust möglich
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\Network.cpp(92,45): warning C4267: "return": Konvertierung von "size_t" nach "int", Datenverlust möglich
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\Network.cpp(103,45): warning C4267: "return": Konvertierung von "size_t" nach "int", Datenverlust möglich
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\Network.cpp(115,45): warning C4267: "return": Konvertierung von "size_t" nach "int", Datenverlust möglich
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\Network.cpp(128,45): warning C4267: "return": Konvertierung von "size_t" nach "int", Datenverlust möglich
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\Network.cpp(141,45): warning C4267: "return": Konvertierung von "size_t" nach "int", Datenverlust möglich
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\Network.cpp(146,45): warning C4267: "return": Konvertierung von "size_t" nach "int", Datenverlust möglich
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\Network.cpp(152,45): warning C4267: "return": Konvertierung von "size_t" nach "int", Datenverlust möglich
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\Network.cpp(166,45): warning C4267: "return": Konvertierung von "size_t" nach "int", Datenverlust möglich
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\Network.cpp(179,45): warning C4267: "return": Konvertierung von "size_t" nach "int", Datenverlust möglich
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\Network.cpp(184,45): warning C4267: "return": Konvertierung von "size_t" nach "int", Datenverlust möglich
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\Network.cpp(190,45): warning C4267: "return": Konvertierung von "size_t" nach "int", Datenverlust möglich
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\Network.cpp(200,45): warning C4267: "return": Konvertierung von "size_t" nach "int", Datenverlust möglich
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\Network.cpp(206,45): warning C4267: "return": Konvertierung von "size_t" nach "int", Datenverlust möglich
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\Network.cpp(213,45): warning C4267: "return": Konvertierung von "size_t" nach "int", Datenverlust möglich
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\Network.cpp(220,45): warning C4267: "return": Konvertierung von "size_t" nach "int", Datenverlust möglich
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\Network.cpp(229,45): warning C4267: "return": Konvertierung von "size_t" nach "int", Datenverlust möglich
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\Network.cpp(236,45): warning C4267: "return": Konvertierung von "size_t" nach "int", Datenverlust möglich
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\Network.cpp(245,44): warning C4267: "return": Konvertierung von "size_t" nach "int", Datenverlust möglich
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\Network.cpp(333,44): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "int", Datenverlust möglich
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\Network.cpp(334,45): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "int", Datenverlust möglich
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\Network.cpp(335,27): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "int", Datenverlust möglich
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\Network.cpp(336,28): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "int", Datenverlust möglich
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\Network.cpp(346,11): warning C4244: "Initialisierung": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\Network.cpp(347,11): warning C4244: "Initialisierung": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\Network.cpp(432,2): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "unsigned int", Datenverlust möglich
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\Network.cpp(487,48): warning C4244: "+=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\Network.cpp(512,2): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "unsigned int", Datenverlust möglich
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\Network.cpp(940,43): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "int", Datenverlust möglich
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\Network.cpp(941,44): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "int", Datenverlust möglich
+C:\Users\admlocal\Desktop\KI\Project\CNN v3\Network.cpp(942,49): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "int", Datenverlust möglich
+  Code wird generiert.
+  171 of 4105 functions ( 4.2%) were compiled, the rest were copied from previous compilation.
+    76 functions were new in current compilation
+    137 functions had inline decision re-evaluated but remain unchanged
+  Codegenerierung ist abgeschlossen.
+  CNN v2.vcxproj -> C:\Users\admlocal\Desktop\KI\Project\CNN v3\x64\Release\CNN v2.exe
